@@ -16,10 +16,12 @@ login-form
 https://axel-ac.github.io/netflix-project/
 ### At the end of the project, following topics are to be covered;
 
-- HTML 
+- HTML Forms-Input Types 
 
-- List Properties
+- HTML Form Elements
 
-- Overflow Property-The flex Property-Opacity / Transparency-Units in CSS
+- CSS Colors-Border Properties
 
-- CSS Setting height and width-CSS Outline-CSS Combinators
+- CSS Margins-Padding
+
+- CSS Properties for Texts-Font Families-Links
